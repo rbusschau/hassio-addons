@@ -7,7 +7,7 @@
   "url": "https://github.com/rbusschau/hassio-addons/tree/master/xboxone",
   "startup": "before",
   "boot": "auto",
-  "image": "hunterjm/hassio-amd64-xboxone",
+  "image": "hunterjm/hassio-armv7-xboxone",
   "host_network": true,
   "map": ["config:rw"],
   "options": {},
